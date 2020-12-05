@@ -2,6 +2,7 @@ import React from 'react'
 import Comment from './Comment'
 
  class CommentsList extends React.Component {
+
         state = {
             isOpen: true
         };
